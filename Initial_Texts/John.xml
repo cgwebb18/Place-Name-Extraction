@@ -88,7 +88,7 @@
   </teiHeader>
   <text>
     <front>
-      <castList xmlns="http://www.tei-c.org/ns/1.0">
+      <castList>
         <castGroup>
           <castItem xml:id="KingJohn_Jn">
             <role>
