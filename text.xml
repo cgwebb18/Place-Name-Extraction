@@ -1,0 +1,173 @@
+<sp xml:id="sp-0958" who="#Poins_1H4">
+    <speaker xml:id="spk-0958">
+        <w xml:id="fs-2h4-0160520">POINS</w>
+    </speaker>
+    <stage xml:id="stg-0958" n="SD 2.2.107" type="delivery">
+        <c> </c>
+        <w xml:id="fs-2h4-0160540" n="SD 2.2.107">reads</w>
+        <c> </c>
+        <w xml:id="fs-2h4-0160560" n="SD 2.2.107">the</w>
+        <c> </c>
+        <w xml:id="fs-2h4-0160580" n="SD 2.2.107">superscription</w>
+    </stage>
+    <p xml:id="p-0958">
+        <lb xml:id="ftln-0958" n="2.2.107" />
+        <q xml:id="q-0958" type="letter">
+            <w xml:id="fs-2h4-0160590" n="2.2.107" lemma="John" ana="#n1-nn">John</w>
+            <c> </c>
+            <w xml:id="fs-2h4-0160610" n="2.2.107" lemma="Falstaff" ana="#n1-nn">Falstaff</w>
+            <pc xml:id="fs-2h4-0160620" n="2.2.107">,</pc>
+            <c> </c>
+            <w xml:id="fs-2h4-0160640" n="2.2.107" lemma="knight" ana="#n1">knight</w>
+            <pc xml:id="fs-2h4-0160650" n="2.2.107">.</pc>
+        </q>
+        <lb xml:id="ftln-0959" n="2.2.108" />
+        <w xml:id="fs-2h4-0160660" n="2.2.108" lemma="every" ana="#d">Every</w>
+        <c> </c>
+        <w xml:id="fs-2h4-0160680" n="2.2.108" lemma="man" ana="#n1">man</w>
+        <c> </c>
+        <w xml:id="fs-2h4-0160700" n="2.2.108" lemma="must" ana="#vmb">must</w>
+        <c> </c>
+        <w xml:id="fs-2h4-0160720" n="2.2.108" lemma="know" ana="#vvi">know</w>
+        <c> </c>
+        <w xml:id="fs-2h4-0160740" n="2.2.108" lemma="that" ana="#d">that</w>
+        <c> </c>
+        <w xml:id="fs-2h4-0160760" n="2.2.108" lemma="as" ana="#acp-av">as</w>
+        <c> </c>
+        <w xml:id="fs-2h4-0160780" n="2.2.108" lemma="oft" ana="#av">oft</w>
+        <c> </c>
+        <w xml:id="fs-2h4-0160800" n="2.2.108" lemma="as" ana="#acp-cs">as</w>
+        <c> </c>
+        <w xml:id="fs-2h4-0160820" n="2.2.108" lemma="he" ana="#pns">he</w>
+        <c> </c>
+        <w xml:id="fs-2h4-0160840" n="2.2.108" lemma="have" ana="#vvz">has</w>
+        <c> </c>
+        <w xml:id="fs-2h4-0160860" n="2.2.108" lemma="occasion" ana="#n1">occasion</w>
+        <lb xml:id="ftln-0960" n="2.2.109" />
+        <w xml:id="fs-2h4-0160870" n="2.2.109" lemma="to" ana="#acp-cs">to</w>
+        <c> </c>
+        <w xml:id="fs-2h4-0160890" n="2.2.109" lemma="name" ana="#vvi">name</w>
+        <c> </c>
+        <w xml:id="fs-2h4-0160910" n="2.2.109" lemma="himself" ana="#px">himself</w>
+        <pc xml:id="fs-2h4-0160920" n="2.2.109">,</pc>
+        <c> </c>
+        <w xml:id="fs-2h4-0160940" n="2.2.109" lemma="even" ana="#av">even</w>
+        <c> </c>
+        <w xml:id="fs-2h4-0160960" n="2.2.109" lemma="like" ana="#acp-p">like</w>
+        <c> </c>
+        <w xml:id="fs-2h4-0160980" n="2.2.109" lemma="those" ana="#d">those</w>
+        <c> </c>
+        <w xml:id="fs-2h4-0161000" n="2.2.109" lemma="that" ana="#cs">that</w>
+        <c> </c>
+        <w xml:id="fs-2h4-0161020" n="2.2.109" lemma="be" ana="#vvb">are</w>
+        <c> </c>
+        <w xml:id="fs-2h4-0161040" n="2.2.109" lemma="kin" ana="#n1">kin</w>
+        <c> </c>
+        <w xml:id="fs-2h4-0161060" n="2.2.109" lemma="to" ana="#acp-p">to</w>
+        <c> </c>
+        <w xml:id="fs-2h4-0161080" n="2.2.109" lemma="the" ana="#d">the</w>
+        <lb xml:id="ftln-0961" n="2.2.110" />
+        <w xml:id="fs-2h4-0161090" n="2.2.110" lemma="king" ana="#n1">King</w>
+        <pc xml:id="fs-2h4-0161100" n="2.2.110">,</pc>
+        <c> </c>
+        <w xml:id="fs-2h4-0161120" n="2.2.110" lemma="for" ana="#acp-cs">for</w>
+        <c> </c>
+        <w xml:id="fs-2h4-0161140" n="2.2.110" lemma="they" ana="#pns">they</w>
+        <c> </c>
+        <w xml:id="fs-2h4-0161160" n="2.2.110" lemma="never" ana="#av-x">never</w>
+        <c> </c>
+        <w xml:id="fs-2h4-0161180" n="2.2.110" lemma="prick" ana="#vvb">prick</w>
+        <c> </c>
+        <w xml:id="fs-2h4-0161200" n="2.2.110" lemma="their" ana="#po">their</w>
+        <c> </c>
+        <w xml:id="fs-2h4-0161220" n="2.2.110" lemma="finger" ana="#n1">finger</w>
+        <c> </c>
+        <w xml:id="fs-2h4-0161240" n="2.2.110" lemma="but" ana="#acp-cc">but</w>
+        <c> </c>
+        <w xml:id="fs-2h4-0161260" n="2.2.110" lemma="they" ana="#pns">they</w>
+        <c> </c>
+        <w xml:id="fs-2h4-0161280" n="2.2.110" lemma="say" ana="#vvb">say</w>
+        <lb xml:id="ftln-0962" n="2.2.111" />
+        <pc xml:id="fs-2h4--0011s">â</pc>
+        <w xml:id="fs-2h4-0161290" n="2.2.111" lemma="there|be" ana="#acp-av|vvz">Thereâs</w>
+        <c> </c>
+        <w xml:id="fs-2h4-0161310" n="2.2.111" lemma="some" ana="#d">some</w>
+        <c> </c>
+        <w xml:id="fs-2h4-0161330" n="2.2.111" lemma="of" ana="#acp-p">of</w>
+        <c> </c>
+        <w xml:id="fs-2h4-0161350" n="2.2.111" lemma="the" ana="#d">the</w>
+        <c> </c>
+        <w xml:id="fs-2h4-0161370" n="2.2.111" lemma="king" ana="#n1g">Kingâs</w>
+        <c> </c>
+        <w xml:id="fs-2h4-0161390" n="2.2.111" lemma="blood" ana="#n1">blood</w>
+        <c> </c>
+        <w xml:id="fs-2h4-0161410" n="2.2.111" lemma="spill" ana="#vvn">spilt</w>
+        <pc xml:id="fs-2h4-0161420" n="2.2.111">.</pc>
+        <pc xml:id="fs-2h4--0011e">â</pc>
+        <c> </c>
+        <pc xml:id="fs-2h4--0012s">â</pc>
+        <w xml:id="fs-2h4-0161440" n="2.2.111" lemma="how" ana="#crq-q">How</w>
+        <lb xml:id="ftln-0963" n="2.2.112" />
+        <w xml:id="fs-2h4-0161450" n="2.2.112" lemma="come" ana="#vvz">comes</w>
+        <c> </c>
+        <w xml:id="fs-2h4-0161470" n="2.2.112" lemma="that" ana="#d">that</w>
+        <pc xml:id="fs-2h4-0161480" n="2.2.112">?</pc>
+        <pc xml:id="fs-2h4--0012e">â</pc>
+        <c> </c>
+        <w xml:id="fs-2h4-0161500" n="2.2.112" lemma="say" ana="#vvz">says</w>
+        <c> </c>
+        <w xml:id="fs-2h4-0161520" n="2.2.112" lemma="he" ana="#pns">he</w>
+        <c> </c>
+        <w xml:id="fs-2h4-0161540" n="2.2.112" lemma="that" ana="#cs">that</w>
+        <c> </c>
+        <w xml:id="fs-2h4-0161560" n="2.2.112" lemma="take" ana="#vvz">takes</w>
+        <c> </c>
+        <w xml:id="fs-2h4-0161580" n="2.2.112" lemma="upon" ana="#acp-p">upon</w>
+        <c> </c>
+        <w xml:id="fs-2h4-0161600" n="2.2.112" lemma="he" ana="#pno">him</w>
+        <c> </c>
+        <w xml:id="fs-2h4-0161620" n="2.2.112" lemma="not" ana="#xx">not</w>
+        <c> </c>
+        <w xml:id="fs-2h4-0161640" n="2.2.112" lemma="to" ana="#acp-cs">to</w>
+        <lb xml:id="ftln-0964" n="2.2.113" />
+        <w xml:id="fs-2h4-0161650" n="2.2.113" lemma="conceive" ana="#vvi">conceive</w>
+        <pc xml:id="fs-2h4-0161660" n="2.2.113">.</pc>
+        <c> </c>
+        <w xml:id="fs-2h4-0161680" n="2.2.113" lemma="the" ana="#d">The</w>
+        <c> </c>
+        <w xml:id="fs-2h4-0161700" n="2.2.113" lemma="answer" ana="#n1">answer</w>
+        <c> </c>
+        <w xml:id="fs-2h4-0161720" n="2.2.113" lemma="be" ana="#vvz">is</w>
+        <c> </c>
+        <w xml:id="fs-2h4-0161740" n="2.2.113" lemma="as" ana="#acp-av">as</w>
+        <c> </c>
+        <w xml:id="fs-2h4-0161760" n="2.2.113" lemma="ready" ana="#j">ready</w>
+        <c> </c>
+        <w xml:id="fs-2h4-0161780" n="2.2.113" lemma="as" ana="#acp-cs">as</w>
+        <c> </c>
+        <w xml:id="fs-2h4-0161800" n="2.2.113" lemma="a" ana="#d">a</w>
+        <c> </c>
+        <w xml:id="fs-2h4-0161820" n="2.2.113" lemma="borrower" ana="#n1g">borrowerâs</w>
+        <lb xml:id="ftln-0965" n="2.2.114" />
+        <w xml:id="fs-2h4-0161830" n="2.2.114" lemma="cap" ana="#n1">cap</w>
+        <pc xml:id="fs-2h4-0161840" n="2.2.114">:</pc>
+        <c> </c>
+        <pc xml:id="fs-2h4--0013s">â</pc>
+        <w xml:id="fs-2h4-0161860" n="2.2.114" lemma="i" ana="#pns">I</w>
+        <c> </c>
+        <w xml:id="fs-2h4-0161880" n="2.2.114" lemma="be" ana="#vvm">am</w>
+        <c> </c>
+        <w xml:id="fs-2h4-0161900" n="2.2.114" lemma="the" ana="#d">the</w>
+        <c> </c>
+        <w xml:id="fs-2h4-0161920" n="2.2.114" lemma="king" ana="#n1g">Kingâs</w>
+        <c> </c>
+        <w xml:id="fs-2h4-0161940" n="2.2.114" lemma="poor" ana="#j">poor</w>
+        <c> </c>
+        <w xml:id="fs-2h4-0161960" n="2.2.114" lemma="cousin" ana="#n1">cousin</w>
+        <pc xml:id="fs-2h4-0161970" n="2.2.114">,</pc>
+        <c> </c>
+        <w xml:id="fs-2h4-0161990" n="2.2.114" lemma="sir" ana="#n1">sir</w>
+        <pc xml:id="fs-2h4-0162000" n="2.2.114">.</pc>
+        <pc xml:id="fs-2h4--0013e">â</pc>
+    </p>
+</sp>
